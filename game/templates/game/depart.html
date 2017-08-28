@@ -1,0 +1,24 @@
+{% extends 'base.html' %}
+
+{% block head %}
+<title>Depart</title>
+{% endblock %}
+
+{% block body %}
+<div id="menu4">
+<p>Your packs can hold <span id="limit">{{ limit }}</span> items.</p>
+<p>You have the following set aside to pack:</p>
+<ol id="pack_final">
+    {% for x in packed %}
+    <li>{{x.name}}</li>
+    {% endfor %}
+</ol>
+<p>Enter items not to pack:</p>
+<input type="text" id="unpack"> <br>
+<p>Need to go back and gather more items to pack?</p>
+<button id="gotopack">Return To Pack</button>
+<p>Read to depart?</p>
+<button id="depart">Ready</button>
+<p id="overfilled"></p>
+</div>
+{% endblock %}

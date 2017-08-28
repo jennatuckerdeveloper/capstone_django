@@ -1,0 +1,97 @@
+body {
+    background: black;
+    color: #ffffff;
+    font-family: Courier;
+    margin: 30px;
+}
+
+#welcome, #win {
+     color: #ffb884;
+     font-size: 4em;
+}
+
+#page1 {
+    height: 100vh;
+    width: 100vw;
+}
+
+#try_again, #retry, #limit, #overfilled {
+    color: darkred;
+}
+
+#menu, #menu2, #menu3, #menu4, #menu5 {
+    font-size: 1.5em;
+    margin: 30px;
+}
+
+#gameplay, #name2, #name3, #name4, #name5 {
+    background: black;
+    border-top: black;
+    border-left: black;
+    border-right: black;
+    color: white;
+    font-size: 1em;
+    font-family: Courier;
+}
+
+#gameplay, #play {
+    width: 30px;
+}
+
+textarea:focus, input:focus{
+    outline: none;
+}
+
+#names {
+    background: black;
+    color: white;
+    border: black;
+    font-size: 1em;
+    font-family: Courier;
+
+}
+
+#menu2 {
+    display: flex;
+    flex-direction: column;
+}
+
+#names {
+    width: 300px;
+    text-align: left;
+}
+
+#pack, #done, #gotopack, #depart, #unpack, #play {
+    font-size: 1em;
+    font-family: Courier;
+}
+
+#done, #gotopack, #depart {
+    background: white;
+}
+
+#menu5 {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+#game_info {
+    text-align: center;
+}
+
+#gm, #pack_final{
+    margin-left: 25px;
+}
+
+#game_info, #game_menu, #inventory {
+    margin: 40px;
+    margin-bottom: 100px;
+}
+
+#inventory ul {
+    list-style-type: none;
+    background: #333333;
+}
+

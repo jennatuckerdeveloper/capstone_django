@@ -1,0 +1,40 @@
+{% extends 'base.html' %}
+
+{% block head %}
+<title>On The Trail</title>
+{% endblock %}
+
+{% block body %}
+<div id="menu5">
+<div id="game_info">
+    <p><span id="day_counter">{{ day_counter }}</span> days on the trail.</p>
+    <p><span id="mile_counter">{{ mile_counter }}</span> miles travelled.</p>
+    <p><span id="food_warning">{{ food_warning }}</span></p>
+    <p><span id="death">{{ death }}</span></p>
+    <p><span id="happening"> {{ happening }}</span></p>
+    <p><span id="find">{{ find }}</span></p>
+    <p><span id="landmark">{{ landmark }}</span></p>
+    <p><span id="play_message">{{ play_message }}</span></p>
+</div>
+<div id="inventory">
+    <p id="char"></p>
+    <p>
+    <ul id="characters"></ul>
+    </p>
+    <p>
+    <p id="tems"></p>
+    <ul id="items"></ul>
+    </p>
+</div>
+<div id="game_menu">
+    <p> What do you want to do? </p>
+    <p id="gm">
+        1) Walk on. <br>
+        2) Take some rest. <br>
+        3) Scavenge / forage nearby area. <br>
+        4) Search through packs. <br>
+    </p>
+    <input type="text" id="play" maxlength="1"> <br>
+</div>
+</div>
+{% endblock %}

@@ -1,9 +1,8 @@
-# PDX Trail: Education Game Project by Jenna M. Tucker
-
+# The New Portland Trail: A Nostalgic Educational Game for Jaded Kids Of The 80's and 90's by Jenna M. Tucker
+# Tagline: You Have Died Of Melancholy 
 
 #### Overview:
-PDX Trail is an educational game designed as a parody of the beloved educational game The Oregon Trail.  The game mimics the quintessential elements of the game play and lingo to satisfy nostalgia for The Oregon Trail.  While The Oregon Trail simulates the shared historical experience of folks taking the Oregon Trail, PDX Trail simulates a shared future where ecological hardship sparks migration to the Cascades and the sprawling Portland area. Players will choose a level of difficulty for their game play, name their team members, and choose an initial inventory including food, clothes, means of carrying their inventory, basic tech, and social use items like music and books before they set out.  Success along the trail will depend on player choices and luck both. Foraging / scavenging will replace hunting as a way to subsidize inventory.
-
+The New Portland Trail is an educational game designed as a parody of the well-known and beloved educational game The Oregon Trail.  The game mimics the quintessential elements of the game play with old-style, simpel graphics and the lingo to satisfy nostalgia for The Oregon Trail.  The Oregon Trail created an imaginary version of a shared historical experience of folks taking the Oregon Trail.  The New Oregon Trail will simulates a shared "historical" future where manmade ecological hardships lead to a mass migration of folks from California and the Midwest to the Cascades and the sprawling Portland area. Players will choose a level of difficulty for their game play, name their team members, and choose an initial inventory including food, clothes, means of carrying their inventory, basic tech, and social use items like music and books before they set out.  They will then embark on a series of materially challenging and socially awkward experiences on the trail to Portland, Oregon.  Like in the original game, success along the trail will depend on both player choices and luck both. Foraging / scavenging will replace hunting as a way to subsidize a player's initial inventory. In the spirit of the original game, players will learn interesting and useful information about political ecology while being entertained.  
 
 #### Specific Functionality:
 
